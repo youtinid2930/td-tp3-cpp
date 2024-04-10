@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1712782326 source:c:\users\hp\desktop\td-tp3\exercice3\contact\main.cpp
+	<iostream>
+	"contact.h"
+	"contactsal.h"
+
+1712781335 source:c:\users\hp\desktop\td-tp3\exercice3\contact\contact.cpp
+	"contact.h"
+	<iostream>
+	<cstring>
+
+1712781335 c:\users\hp\desktop\td-tp3\exercice3\contact\contact.h
+
+1712781188 source:c:\users\hp\desktop\td-tp3\exercice3\contact\contactsal.cpp
+	"contactsal.h"
+	<iostream>
+
+1712781297 c:\users\hp\desktop\td-tp3\exercice3\contact\contactsal.h
+	"contact.h"
+	<ostream>
+

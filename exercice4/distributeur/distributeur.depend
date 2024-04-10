@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1712788306 source:c:\users\hp\desktop\td-tp3\exercice4\distributeur\distributeur.cpp
+	"distributeur.h"
+	<iostream>
+
+1712785427 c:\users\hp\desktop\td-tp3\exercice4\distributeur\distributeur.h
+
+1712788248 source:c:\users\hp\desktop\td-tp3\exercice4\distributeur\main.cpp
+	<iostream>
+	"distributeur.h"
+	"distributeurmulti.h"
+
+1712787717 source:c:\users\hp\desktop\td-tp3\exercice4\distributeur\distributeurmulti.cpp
+	"distributeurmulti.h"
+	<iostream>
+
+1712787542 c:\users\hp\desktop\td-tp3\exercice4\distributeur\distributeurmulti.h
+	"distributeur.h"
+

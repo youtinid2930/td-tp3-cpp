@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1712415282 source:c:\users\hp\desktop\td-tp3\exercice2\main.cpp
+	"Parallelepipede.h"
+	<iostream>
+
+1712415121 c:\users\hp\desktop\td-tp3\exercice2\parallelepipede.h
+	"rectangle.h"
+
+1712415182 c:\users\hp\desktop\td-tp3\exercice2\rectangle.h
+	"point.h"
+
+1712412335 c:\users\hp\desktop\td-tp3\exercice2\point.h
+
+1712413201 source:c:\users\hp\desktop\td-tp3\exercice2\point.cpp
+	"point.h"
+	<iostream>
+
+1712415121 source:c:\users\hp\desktop\td-tp3\exercice2\parallelepipede.cpp
+	"parallelepipede.h"
+	<iostream>
+
+1712415182 source:c:\users\hp\desktop\td-tp3\exercice2\rectangle.cpp
+	"rectangle.h"
+	<cmath>
+	<iostream>
+

@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1712413201 source:c:\users\hp\desktop\td-tp3\new folder\exercice1\cercle.cpp
+	"cercle.h"
+	<cmath>
+	<iostream>
+
+1712412470 c:\users\hp\desktop\td-tp3\new folder\exercice1\cercle.h
+	"point.h"
+
+1712412335 c:\users\hp\desktop\td-tp3\new folder\exercice1\point.h
+
+1712413201 source:c:\users\hp\desktop\td-tp3\new folder\exercice1\point.cpp
+	"point.h"
+	<iostream>
+
+1712413201 source:c:\users\hp\desktop\td-tp3\new folder\exercice1\main.cpp
+	"Cylindre.h"
+	<iostream>
+
+1712412470 c:\users\hp\desktop\td-tp3\new folder\exercice1\cylindre.h
+	"cercle.h"
+
+1712413373 source:c:\users\hp\desktop\td-tp3\new folder\exercice1\cylindre.cpp
+	"cylindre.h"
+	<cmath>
+	<iostream>
+

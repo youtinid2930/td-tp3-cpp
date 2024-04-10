@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1712765356 source:c:\users\hp\desktop\td-tp3\exercice 2\parc_auto\main.cpp
+	<iostream>
+	"voiteur.h"
+
+1712765356 c:\users\hp\desktop\td-tp3\exercice 2\parc_auto\vehicule.h
+
+1712765967 c:\users\hp\desktop\td-tp3\exercice 2\parc_auto\voiteur.h
+	"vehicule.h"
+
+1712766113 source:c:\users\hp\desktop\td-tp3\exercice 2\parc_auto\vehicule.cpp
+	"vehicule.h"
+	<iostream>
+	<cstring>
+
+1712766263 source:c:\users\hp\desktop\td-tp3\exercice 2\parc_auto\voiteur.cpp
+	"voiteur.h"
+	<iostream>
+
